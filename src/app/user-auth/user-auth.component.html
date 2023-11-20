@@ -1,0 +1,43 @@
+<div class="signup" *ngIf="show">
+  <h1>User Sign-Up</h1>
+  <p class="authSuccess">{{ authSignUpMessage }}</p>
+  <form
+    #sellerSignup="ngForm"
+    (ngSubmit)="signUp(sellerSignup.value)"
+    class="common-form"
+  >
+    <input type="text" name="name" ngModel placeholder="Enter Name" />
+    <input type="email" name="email" ngModel placeholder="Enter Email" />
+    <input
+      type="password"
+      name="password"
+      ngModel
+      placeholder="Enter Password"
+    />
+    <button>SignUp</button>
+  </form>
+  <p>
+    Already have an account? <a (click)="display()" class="cursor">Login</a>
+  </p>
+</div>
+
+<div class="signup" *ngIf="!show">
+  <h1>Users Login</h1>
+  <!-- <p class="authError">{{authError}}</p> -->
+  <form
+    #sellerLogin="ngForm"
+    (ngSubmit)="login(sellerLogin.value)"
+    class="common-form"
+  >
+    <input type="email" name="email" ngModel placeholder="Enter Email" />
+    <input
+      type="password"
+      name="password"
+      ngModel
+      placeholder="Enter Password"
+    />
+    
+    <button>Login</button>
+  </form>
+  <p>Don't have an account? <a (click)="display()" class="cursor">SignUp</a></p>
+</div>

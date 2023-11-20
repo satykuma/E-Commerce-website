@@ -1,0 +1,33 @@
+.row img{
+    height: 140px;
+    width: 130px;
+
+}
+.col-sm-3{
+    /* height: 140px; */
+    width: 150px;
+    margin: 0;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.details{
+    margin-left: 1.2rem;
+    /* height: 130px; */
+    width: 70%;
+    /* background-color: blue; */
+}
+.search-item{
+    width: 60vw;
+    margin-top: 1rem;
+    padding-top: 5px;
+    border-top: 1.5px solid #ddd;
+    /* background-color: red; */
+    
+}
+.outer-search-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

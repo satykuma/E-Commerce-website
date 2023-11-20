@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: sans-serif;
+}
+.cursor:hover{
+    cursor: pointer;
+    font-weight: 700;
+}
+.carousel-caption{
+    background-color: #0c0b0b73;
+    border-radius: 5px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    background-color: black;
+    border: 5px;
+}

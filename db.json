@@ -1,0 +1,128 @@
+{
+  "seller": [
+    {
+      "name": "Satyendra Kumar",
+      "email": "sattu@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "smartwatch samsung gear - Top Brands Available",
+      "price": "25999",
+      "color": "Red ",
+      "category": "watch",
+      "description": "Smart Watch|Biggest 1.95\" Horizon Curve Display|SingleSync BT Calling v5.3|Built-in Alexa|Upto 5Day Battery|ATS Chipset|100+ Sports Modes|150+ Watchfaces(Black)",
+      "image": "https://th.bing.com/th/id/R.ae20930a1209c50267d828295b710570?rik=p%2bby%2bbxQ%2f2EXUg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f13%2fSmartwatch-PNG-Image.png&ehk=i8LCKtoxoPEqO4YOhrkYbGI7VuLFPHDkkoMRlpf%2fCiQ%3d&risl=&pid=ImgRaw&r=0",
+      "id": 1
+    },
+    {
+      "name": "Samsung 27-inch(68.5cm) FHD, 1800R Curved 1,920 x 1,080 Monitor",
+      "price": "9999",
+      "color": "black",
+      "category": "monitor",
+      "description": "FHD, 1800R Curved 1,920 x 1,080 Monitor, VA Panel, Slim Design, AMD FreeSync, Flicker Free, HDMI, Audio Ports (LC27R500FHWXXL, Dark Blue Gray)",
+      "image": "https://m.media-amazon.com/images/I/91LuvOkma8L._SX679_.jpg",
+      "id": 2
+    },
+    {
+      "name": "NIKE Winflo 9 Shield Men's Weatherised Road Running Shoes",
+      "price": "200000",
+      "color": "BLACK/SAFETY ORANGE-GEODE TEAL",
+      "category": "shoes",
+      "description": "Nike Winflo 9 Shield Men's Weatherised Road Running Shoes",
+      "image": "https://m.media-amazon.com/images/I/711hmrJQrUL._SX695_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Samsung Galaxy Book3 360 Intel 13th Gen i7 EvoTM 33.78cm(13.3\") Super Amoled 2-in-1 Touchscreen Laptop",
+      "price": "133990",
+      "color": "black",
+      "category": "Laptop",
+      "description": "Samsung Galaxy Book3 360 Intel 13th Gen i7 EvoTM 33.78cm(13.3\") Super Amoled 2-in-1 Touchscreen Laptop (16 GB/1TB SSD/Windows11/MS Office/Backlit KB/Fingerprint Sensor/Graphite/1.16Kg), NP730QFG-KA3IN",
+      "image": "https://m.media-amazon.com/images/I/71tPWK3MzHL._SX679_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Sony Expand Cyber-Shot RX Series Compact Camera Range",
+      "price": "50000",
+      "color": "Black",
+      "category": "Camera",
+      "description": "Sony's new RX100 IV and RX10 II feature stacked 1.0 type CMOS sensors, slow motion capture and 4K video shooting.",
+      "image": "https://www.ephotozine.com/articles/sony-expand-cyber-shot-rx-series-compact-camera-range--27647/images/highres-RX10M2_right_bgwh_1434009289_1434013568.jpg",
+      "id": 7
+    },
+    {
+      "name": "Sony Expand Cyber-Shot RX Series Compact Camera Range",
+      "price": "99000",
+      "color": "Black",
+      "category": "Camera",
+      "description": "Sony's new RX100 IV and RX10 II feature stacked 1.0 type CMOS sensors, slow motion capture and 4K video shooting.",
+      "image": "https://www.ephotozine.com/articles/sony-expand-cyber-shot-rx-series-compact-camera-range--27647/images/highres-RX10M2_right_bgwh_1434009289_1434013568.jpg",
+      "id": 8
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "5000",
+      "color": "White",
+      "category": "shoes",
+      "description": "good for sports",
+      "image": "https://th.bing.com/th?id=OIP.g7FIEP8Y4lprL9jUbTW1UwHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "id": 10
+    },
+    {
+      "name": "Nike shoes ",
+      "price": "2999",
+      "color": "green ",
+      "category": "shoes",
+      "description": "good shoes ",
+      "image": "https://freepngimg.com/download/running%20shoes/15-nike-running-shoes-png-image.png",
+      "id": 11
+    },
+    {
+      "name": "Nike shoes ",
+      "price": "2999",
+      "color": "green ",
+      "category": "shoes",
+      "description": "good shoes ",
+      "image": "https://freepngimg.com/download/running%20shoes/15-nike-running-shoes-png-image.png",
+      "id": 12
+    },
+    {
+      "name": "Nike shoes ",
+      "price": "2999",
+      "color": "green ",
+      "category": "shoes",
+      "description": "good shoes ",
+      "image": "https://freepngimg.com/download/running%20shoes/15-nike-running-shoes-png-image.png",
+      "id": 13
+    },
+    {
+      "name": "Nike shoes ",
+      "price": "2999",
+      "color": "green ",
+      "category": "shoes",
+      "description": "good shoes ",
+      "image": "https://freepngimg.com/download/running%20shoes/15-nike-running-shoes-png-image.png",
+      "id": 14
+    },
+    {
+      "name": "Nike shoes ",
+      "price": "2999",
+      "color": "green ",
+      "category": "shoes",
+      "description": "good shoes ",
+      "image": "https://freepngimg.com/download/running%20shoes/15-nike-running-shoes-png-image.png",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "name": "Satyendra Kumar",
+      "email": "sattu@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ]
+}

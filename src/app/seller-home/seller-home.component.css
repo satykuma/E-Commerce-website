@@ -1,0 +1,25 @@
+table{
+    text-align: left;
+    color: blueviolet;
+    border-collapse: collapse;
+}
+table td, table th{
+    border: 1px solid blueviolet;
+    padding: 1rem;
+}
+table img{
+    height: 3rem;
+    width: 3rem;
+}
+.product-list{
+    display: inline-block;
+    text-align: center;
+}
+.seller-product-list{
+    display: flex;
+    justify-content: center;
+}
+.edtIcon{
+    margin-left: 10px;
+    color: blueviolet;
+}
